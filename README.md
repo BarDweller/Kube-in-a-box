@@ -35,11 +35,6 @@ Now you can refer to the images from Kube yaml using the image name `192.168.1.1
 
 ## More
 
-If you want to see further details.. 
-
-First, `vagrant ssh` to access the VM hosting the machines. 
-then `juju status` will show the status of the processes on those machines.
-`iptables -L -vt nat` will show the forwarding rules added to the host.
-`lxc list` will show the running containers.
+[There's more info here if you want further details.. ](MORE.md)
 
 
